@@ -90,7 +90,7 @@ class IgnitedImageCompressor
                 );
 
                 // Return the response as a JSON object
-                return json_encode($response);
+                return $response;
             }
         }
 
