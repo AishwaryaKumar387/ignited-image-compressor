@@ -1,6 +1,6 @@
 {
     "name": "ignited-developer/php-image-compressor",
-    "description": "A sample PHP image-compressor is a lightweight PHP package that provides image compression and resizing functionality. It supports multiple image formats (JPEG, PNG, GIF, WebP, AVIF) and allows you to compress and resize images while maintaining quality. This package is ideal for reducing the file size of images for faster web loading times and optimizing storage usage, making it perfect for use in web applications, CMS platforms, and other projects that handle image uploads.",
+    "description": "A sample PHP image-compressor is a lightweight PHP package that provides image compression and resizing functionality. It supports multiple image formats (JPEG, PNG, GIF, WebP, AVIF) and allows you to compress and resize images while maintaining quality.",
     "type": "library",
     "require": {
         "php": ">=7.4"
